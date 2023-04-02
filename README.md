@@ -173,7 +173,4 @@ function showContent() {
 ## Referencias
 
 - <a href="https://guiseek.notion.site/Elementos-do-HTML-na-pr-tica-1f83decf102a4edcbdee81eafefc2175">Elementos do HTML na prática</a>
-- <a href="https://www.w3schools.com">W3schools</a> DevParaná Conference já é sinonimo de grande festa e crescimento na comunidade de desenvolvimento;
-               Todos os anos nos empenhamos para trazer conteúdo de qualidade, mantendo a comunidade sempre próxima
-               e ativa, e 2020 não será diferente. Com um formato diferente do habitual, vamos ter 16 talks com
-               grande conteúdo, e com a sinergia de todos os grupos de meetup afiliados do DevParaná!
+- <a href="https://www.w3schools.com">W3schools</a>
