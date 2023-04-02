@@ -5,6 +5,7 @@ O repositório tem o intuito de documentar meus estudos sobre o que eu aprendi s
 
 ---
 <h2 align="center" ><b>HTML</b></h2>
+
 ### Tags
 
 - `<html>`É a raiz do documento, avisa para o dom que o arquivo vai ser um arquivo html;
